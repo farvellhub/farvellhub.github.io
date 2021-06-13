@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to farvellhub.github.io portfolio.👋</h1>
+<h1 align="center">Welcome to farvellhub.github.io 👋</h1>
 <p align="center">
   <a href="#" target="_blank">
   <img alt="Version" src="https://img.shields.io/badge/version-2.0.1-blue.svg?cacheSeconds=2592000" />
