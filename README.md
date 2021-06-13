@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Farvell portfolio.👋</h1>
+<h1 align="center">Welcome to farvellhub.github.io portfolio.👋</h1>
 <p align="center">
   <a href="#" target="_blank">
   <img alt="Version" src="https://img.shields.io/badge/version-2.0.1-blue.svg?cacheSeconds=2592000" />
@@ -9,7 +9,7 @@
  <a href="https://discord.gg/tpNtcJHw" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
 </p>
 
-> My personal portfolio
+> Live previews of static web pages.
 
 ## Questions?
 
