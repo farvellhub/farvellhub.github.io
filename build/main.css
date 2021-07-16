@@ -148,11 +148,9 @@ body {
 }
 
 .flex-align {
-  display: "flex" !important;
-  width: 100vw;
-  height: 100vh;
-  justify-self: center;
-  align-self: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 .loader-wrapper {
